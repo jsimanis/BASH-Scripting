@@ -1,0 +1,15 @@
+
+[NEW USER] User Jackie successfully created on Wed Oct 26 15:35:01 CDT 2022
+[LOG ON] Admin logged on successfully on Wed Oct 26 15:35:16 CDT 2022
+[LOG OFF] Admin logged off at Wed Oct 26 15:35:18 CDT 2022
+[NEW USER] User Rodney successfully created on Wed Oct 26 15:35:27 CDT 2022
+[LOG ON] Jackie logged on successfully on Wed Oct 26 15:35:38 CDT 2022
+[LOG OFF] Jackie logged off at Wed Oct 26 15:35:41 CDT 2022
+[LOG ON] Rodney logged on successfully on Wed Oct 26 15:35:53 CDT 2022
+[LOG OFF] Rodney logged off at Wed Oct 26 15:35:56 CDT 2022
+[NEW USER] User kol successfully created on Wed Oct 26 15:36:02 CDT 2022
+[LOG ON] kol logged on successfully on Wed Oct 26 15:36:06 CDT 2022
+[LOG OFF] kol logged off at Wed Oct 26 15:36:08 CDT 2022
+[LOG ON] Jackie logged on successfully on Wed Oct 26 16:30:55 CDT 2022
+[LOG OFF] Jackie logged off at Wed Oct 26 16:30:58 CDT 2022
+[LOG ON] kol logged on successfully on Wed Oct 26 16:32:24 CDT 2022
