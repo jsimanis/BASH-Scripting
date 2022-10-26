@@ -1,6 +1,6 @@
 # BASH-Scripting
 
-Login program creates new accounts and logs them in.
+Login script creates new accounts and logs them in.
 
 Passwords are salted, and hashed with SHA-256.
 
